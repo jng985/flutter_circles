@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "393770132615",
+    "project_id": "circles-2f91e",
+    "storage_bucket": "circles-2f91e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393770132615:android:680943b42ccb4994830422",
+        "android_client_info": {
+          "package_name": "com.jonathanng.fluttercircles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393770132615-6cale04a9agnqn5bs9vue687cic4bj9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCevUOweh51foJ4DLnDQuL-LLPGFLjSwdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393770132615-6cale04a9agnqn5bs9vue687cic4bj9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393770132615-4vd5b07ailknc5hjho2gn2seo1rf4bep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jonathanng.fluttercircles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
